@@ -20,3 +20,13 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# linux:
+*.swp
+
+# mac
+.DS_Store
+
+# Windows:
+Thumbs.db
+Desktop.ini
