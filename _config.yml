@@ -19,7 +19,7 @@ title: Siegward # the main title
 tagline: 周刊、随笔、游记... # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  周刊、随笔、游记...
+  周刊、随笔、游记... feedId:103997910885255168+userId:103995328875526144
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
