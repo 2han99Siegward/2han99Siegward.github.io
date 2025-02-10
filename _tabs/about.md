@@ -10,7 +10,7 @@ order: 4
 > 
 > 所以看看就好，看看就好...
 
-另可见于[xlog](https://2han99-7353.xlog.app/)
+另可见于[flowus](https://flowus.cn/2han99/share/3023424f-c6fb-4eb9-81a4-564ea9954c40)
 
 ## [我的2024](../posts/2024/)
 
