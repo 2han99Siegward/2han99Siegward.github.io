@@ -224,3 +224,9 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-feed
+
+feed:
+  excerpt_only: false  # 确保输出完整内容
